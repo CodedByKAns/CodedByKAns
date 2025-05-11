@@ -14,7 +14,7 @@
 - 🌱 Actively learning: **LLMs (Command R+), Local AI Tools, PyQt5 UI/UX, Arduino Automation**
 - 🧠 My goal: **To merge AI with real-world system-level automation that feels human**
 - 💬 Ask me about: **Smart assistants, desktop automation, Python tools, or AI in practical life**
-- 📫 Reach out: **[Instagram](https://instagram.com/sigmablaze__) | [Email](mailto:kaifansaridev@gmail.com)**
+- 📫 Reach out: **[Instagram](https://instagram.com/sigmablaze__) | [Email](mailto:kaifansaridev@gmail.com)** | [My Website](https://www.circleup.top/)**
 - ⚡ Fun fact: *If machines could talk, I’d make sure they reply smartly.*
 
 ---
