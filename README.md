@@ -51,11 +51,11 @@ A local, voice-controlled assistant with smart search, app automation, file mana
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sigmablaze__&show_icons=true&theme=radical&hide_border=true" alt="sigmablaze__ GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaif-ansari-jarvis&show_icons=true&theme=radical&hide_border=true" alt="sigmablaze__ GitHub stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sigmablaze__&theme=radical&hide_border=true" alt="sigmablaze__ streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaif-ansari-jarvis&theme=radical&hide_border=true" alt="sigmablaze__ streak stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigmablaze__&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaif-ansari-jarvis&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ A local, voice-controlled assistant with smart search, app automation, file mana
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://instagram.com/sigmablaze__" target="_blank">
+  <a href="https://instagram.com/kaif-ansari-jarvis" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
   <a href="mailto:kaifansaridev@gmail.com">
