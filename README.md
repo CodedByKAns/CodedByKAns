@@ -44,7 +44,7 @@ A local, voice-controlled assistant with smart search, app automation, file mana
 - 🔌 **Arduino Integration** for physical automation
 - 💻 **No-UI Control System** (for fast workflows)
 
-> [🛠 View Source Code](https://github.com/kaif-ansari-jarvis/jarvis-by-kaif-ansari) | [📺 Demo Coming Soon](#)
+> [🛠 View Source Code](https://github.com/CodedByKAns/Project-JARVIS) | [📺 Demo Coming Soon](#)
 
 ---
 
